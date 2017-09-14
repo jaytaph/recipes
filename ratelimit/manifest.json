@@ -1,0 +1,8 @@
+{
+    "bundles": {
+        "Noxlogic\\RateLimitBundle": ["all"]
+    },
+    "gitignore": [
+	        "yolo.txt"
+	    ]
+}
